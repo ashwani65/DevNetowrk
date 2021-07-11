@@ -1,6 +1,6 @@
 {
-    "mongoURI":"mongodb+srv://ashwani123:ashwani123@devnetwork.pmqmz.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId":"e10bf96995e77051b610",
-    "githubSecret":"febdcc197f3f40f0a5a69902d250cb778cd0f942"
+    "mongoURI":"",
+    "jwtSecret": "",
+    "githubClientId":"",
+    "githubSecret":""
 }
